@@ -1,0 +1,20 @@
+# Local Python environments and caches
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ipynb_checkpoints/
+.mypy_cache/
+.ruff_cache/
+# Notebook / experiment outputs
+*.log
+.DS_Store
+Thumbs.db
+# Credentials and local settings
+.env
+.env.*
+!.env.example
+.streamlit/secrets.toml
+# Local exports; the curated artifact is intentionally tracked
+models_tmp/
