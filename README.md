@@ -6,6 +6,14 @@ A portfolio project that investigates three historical neighborhood indicators, 
 
 > **Educational project, not a valuation service.** This uses a modified version of the historical Boston Housing dataset and includes the potentially biased `LSTAT` feature. Read the [model card](docs/MODEL_CARD.md) before using or discussing results.
 
+### 🚀 Live Demo
+
+[**Try the Interactive Application**](https://boston-housing-ml-pipeline.streamlit.app)
+
+Explore historical housing-price predictions using a tuned Random Forest model, with interactive data visualizations and model performance analysis.
+
+**[Live Demo](https://boston-housing-ml-pipeline.streamlit.app)** | **[Source Code](https://github.com/mohab-yasser/boston-housing-ml-pipeline)**
+
 ## Results at a glance
 
 | Metric | Value | Description |
