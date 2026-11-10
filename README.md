@@ -14,6 +14,12 @@ Explore historical housing-price predictions using a tuned Random Forest model, 
 
 **[Live Demo](https://boston-housing-ml-pipeline.streamlit.app)** | **[Source Code](https://github.com/mohab-yasser/boston-housing-ml-pipeline)**
 
+## Application Preview
+
+![Boston Housing ML Dashboard](docs/dashboard-preview.png)
+
+Explore the interactive Streamlit dashboard to generate predictions, compare model performance, and visualize historical housing data.
+
 ## Results at a glance
 
 | Metric | Value | Description |
